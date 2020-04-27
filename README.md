@@ -1,5 +1,11 @@
 <ul>
 <h1> Peter Dean </h1>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/Ruby-219%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/JavaScript-99%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/HTML-77%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/Python-56%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/CSS-44%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/C++-25%20commits-orange.svg" alt=""></a>
 
 <h2> Profile </h2>
   I am a driven developer passionate to expand my knowledge and explore the tech industry. I have always been motivated by a desire to understand the world and build things using that knowledge. Having been exposed to programming building a 3D printer and through my studies in aerospace engineering I knew I had to take the plunge into the world of software. I attended Makers academy and have never looked back. <p>
