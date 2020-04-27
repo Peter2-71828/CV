@@ -11,17 +11,6 @@
 | Title | Description | Development<p>Time Frame | Technologies | Test Suits<p>CICDs |
 | ----- | ----------- | ---------------------- | ------------ | ---------------- |
 
-| Technical Skills | Soft Skills |
-| ---------------- | ----------- |
-| Javascript | Team Management |
-| Python | Teaching Techniques |
-| Ruby | Critical Thinking |
-| C++ | Problem Solving |
-| HTML & CSS | Conflict Resolution |
-| SQL & PostgresSQL | Presentation Skills |
-| Rails & Node.js | Lateral Thinking |
-| OpenCV & TensorFlow | Time Management |
-
 <h2> Education </h2>
 
 | Technical Skills | Soft Skills |
