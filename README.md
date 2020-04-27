@@ -24,6 +24,17 @@
 
 <h2> Education </h2>
 
+| Technical Skills | Soft Skills |
+| ---------------- | ----------- |
+| Javascript | Team Management |
+| Python | Teaching Techniques |
+| Ruby | Critical Thinking |
+| C++ | Problem Solving |
+| HTML & CSS | Conflict Resolution |
+| SQL & PostgresSQL | Presentation Skills |
+| Rails & Node.js | Lateral Thinking |
+| OpenCV & TensorFlow | Time Management |
+
 <h3> Scuba Diving </h3>
 <li>Qualified scuba diving and first aid instructor
 <li>Qualified to teach 9 specialties including working with the disabled
