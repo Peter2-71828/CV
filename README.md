@@ -11,40 +11,16 @@
 | Title | Description | Development<p>Time Frame | Technologies | Test Suits<p>CICDs |
 | ----- | ----------- | ---------------------- | ------------ | ---------------- |
 
-</ul>
-
-<div class="row">
-  <div class="column">
-    <ul>
-    <h3> Technical Skills </h3>
-      <li>Javascript
-      <li>Python
-      <li>Ruby
-      <li>HTML
-      <li>CSS
-      <li>SQL
-      <li>Rails
-      <li>node.js
-      <li>Multiprocessing
-      <li>OpenCV
-      <li>Tensorflow
-      <li>PostgresSQL
-  </div>
-
-  <div class="column">
-    <ul>
-    <h3> Soft Skills </h3>
-      <li>Team Management
-      <li>Teaching Techniques
-      <li>Critical Thinking
-      <li>Problem Solving
-      <li>Conflict Resolution
-      <li>Presentation Skills
-      <li>Lateral Thinking
-  </div>
-</div>
-
-<ul>
+| Technical Skills | Soft Skills |
+| ---------------- | ----------- |
+| Javascript | Team Management |
+| Python | Teaching Techniques |
+| Ruby | Critical Thinking |
+| C++ | Problem Solving |
+| HTML & CSS | Conflict Resolution |
+| SQL & PostgresSQL | Presentation Skills |
+| Rails & Node.js | Lateral Thinking |
+| OpenCV & TensorFlow | Time Management |
 
 <h2> Education </h2>
 
@@ -76,14 +52,3 @@ Completed two years of an aerospace engineering degree which in part lead to me 
 <h2> Interests </h2>
   Apart from coding my interests include rock climbing and tinkering with 3D printers. I have a passion for marine conservation and have been able to participate in multiple conservation efforts and projects. I also enjoy hiking and generally exploring our planet.
 </ul>
-  <style>
-  .column {
-    float: left;
-    width: 50%;
-  }
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-  </style>
