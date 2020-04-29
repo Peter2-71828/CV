@@ -8,6 +8,13 @@
 
 <h2> Projects and Skills </h2>
 
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/Ruby-219%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/JavaScript-99%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/HTML-77%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/Python-56%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/CSS-44%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/C++-25%20commits-orange.svg" alt=""></a>
+
 | Technical Skills | Soft Skills |
 | ---------------- | ----------- |
 | Javascript | Team Management |
@@ -18,13 +25,6 @@
 | SQL & PostgresSQL | Presentation Skills |
 | Rails & Node.js | Lateral Thinking |
 | OpenCV & TensorFlow | Time Management |
-
-<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/Ruby-219%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/JavaScript-99%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/HTML-77%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/Python-56%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/CSS-44%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/C++-25%20commits-orange.svg" alt=""></a>
 
 | Title | Description | Development<p>Time Frame | Technologies | Test Suits<p>CICDs |
 | ----- | ----------- | ---------------------- | ------------ | ---------------- |
