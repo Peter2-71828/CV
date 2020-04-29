@@ -16,10 +16,10 @@
 
 | Title | Description | Development<p>Time Frame | Technologies | Test Suits<p>CICDs |
 | ----- | ----------- | ---------------------- | ------------ | ---------------- |
-|PongNotPong|Pong game played with hand tracking|2 Weeks|Python, OpenCV|N.A|
-|aceBook|Face book clone rails apps|2 Weeks|Rails, Carrierwave|Heroku, Travis CI, Rspec|
-|GuildedRose|Javascript refactoring challenge|2 Days|JavaScript|Mocha|
-|takeaway|Takeway program with sms capabilities|2 Days|Ruby, Twilio|Rspec|
+|[PongNotPong](https://github.com/Peter2-71828/PongNotPong)|Pong game played with hand tracking|2 Weeks|Python, OpenCV|N.A|
+|[aceBook](https://github.com/Peter2-71828/aceBook-PingPong)|Face book clone rails apps|2 Weeks|Rails, Carrierwave|Heroku, Travis CI, Rspec|
+|[GuildedRose](https://github.com/Peter2-71828/GildedRose-Refactoring-Kata)|Javascript refactoring challenge|2 Days|JavaScript|Mocha|
+|[Takeaway](https://github.com/Peter2-71828/takeaway-challenge)|Takeway program with sms capabilities|2 Days|Ruby, Twilio|Rspec|
 
 <h2> Education </h2>
 
