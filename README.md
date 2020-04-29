@@ -16,6 +16,10 @@
 
 | Title | Description | Development<p>Time Frame | Technologies | Test Suits<p>CICDs |
 | ----- | ----------- | ---------------------- | ------------ | ---------------- |
+|PongNotPong|Pong game played with hand tracking|2 Weeks|Python, OpenCV|N.A|
+|aceBook|Face book clone rails apps|2 Weeks|Rails, Carrierwave|Heroku, Travis CI, Rspec|
+|GuildedRose|Javascript refactoring challenge|2 Days|JavaScript|Mocha|
+|takeaway|Takeway program with sms capabilities|2 Days|Ruby, Twilio|Rspec|
 
 <h2> Education </h2>
 
