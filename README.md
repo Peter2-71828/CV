@@ -51,7 +51,10 @@
 <h3>Research and Camp Management Intern, Gap Force<p>(June to September 2017)</h3>
   <li>Supported teaching of a group of over 20 participants in scuba diving, first aid, survey techniques and fish, coral and benthic identification. Managed logistics and equipment maintenance.
 
-<h2> Education </h2>
+<h2> Higher Education </h2>
+
+<h3> University of Surrey </h3>
+Completed two years of an aerospace engineering degree which in part lead to me discovering my passion for software
 
 <h3> Scuba Diving </h3>
 <li>Qualified scuba diving and first aid instructor
@@ -59,9 +62,6 @@
 <li>Qualified equipment technician
 <li>Qualified in boat handling
 <li>Trained in marine survey techniques
-
-<h3> University of Surrey </h3>
-Completed two years of an aerospace engineering degree which in part lead to me discovering my passion for software
 
 <h2> Interests </h2>
   Apart from coding my interests include rock climbing and tinkering with 3D printers. I have a passion for marine conservation and have been able to participate in multiple conservation efforts and projects. I also enjoy hiking and generally exploring our planet.
