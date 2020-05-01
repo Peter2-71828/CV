@@ -64,5 +64,5 @@ Completed two years of an aerospace engineering degree which in part lead to me 
 <li>Trained in marine survey techniques
 
 <h2> Interests </h2>
-  Apart from coding my interests include rock climbing and tinkering with 3D printers. I have a passion for marine conservation and have been able to participate in multiple conservation efforts and projects. I also enjoy hiking and generally exploring our planet.
+  Apart from coding my interests include rock climbing, hiking and my 3D printer is under continues development both hardware and software. I have a passion for marine conservation and diving  have been able to participate in multiple conservation efforts and projects. I also enjoy hiking and generally exploring our planet.
 </ul>
