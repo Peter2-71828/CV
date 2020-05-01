@@ -21,7 +21,7 @@
 
 <a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/Ruby-219%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/JavaScript-99%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/HTML-77%20commits-orange.svg" alt=""></a><br>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/HTML-77%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/Python-56%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/CSS-44%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/C++-25%20commits-orange.svg" alt=""></a>
