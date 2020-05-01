@@ -2,9 +2,9 @@
 <h1> Peter Dean </h1>
 
 <h2> Profile </h2>
-  I am a driven developer passionate to expand my knowledge and explore the tech industry. I have always been motivated by a desire to understand the world and build things using that knowledge. Having been exposed to programming building a 3D printer and through my studies in aerospace engineering I knew I had to take the plunge into the world of software. I attended Makers academy and have never looked back. <p>
+  I am a driven developer passionate to expand my knowledge and explore the tech industry. I have always been motivated by a desire to understand the world and to build thinks that make a difference. Having been exposed to programming building a 3D printer and through my studies in aerospace engineering I knew I had to take the plunge into the world of software. I attended Makers academy and have never looked back. <p>
 
-  As well as studying engineering I am a diving instructor. Diving has resulted in me gaining many skills including having an eye for detail, being good at lateral thinking and loving teaching and knowledge sharing to name a few.
+  As well as studying engineering I am a diving instructor. Diving developed my eye for detail, encouraged lateral thinking and engendered a love of teaching and knowledge sharing.
 
 <h2> Skills </h2>
 
