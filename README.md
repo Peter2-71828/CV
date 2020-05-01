@@ -6,14 +6,7 @@
 
   As well as studying engineering I am a diving instructor. Diving has resulted in me gaining many skills including having an eye for detail, being good at lateral thinking and loving teaching and knowledge sharing to name a few.
 
-<h2> Projects and Skills </h2>
-
-<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/Ruby-219%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/JavaScript-99%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/HTML-77%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/Python-56%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/CSS-44%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/C++-25%20commits-orange.svg" alt=""></a>
+<h2> Skills </h2>
 
 | Technical Skills | Soft Skills |
 | ---------------- | ----------- |
@@ -26,12 +19,22 @@
 | Rails & Node.js | Lateral Thinking |
 | OpenCV & TensorFlow | Time Management |
 
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/Ruby-219%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/JavaScript-99%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/HTML-77%20commits-orange.svg" alt=""></a><br>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/Python-56%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/CSS-44%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/C++-25%20commits-orange.svg" alt=""></a>
+
+<h2> Projects </h2>
+
 | Title | Description | Development<p>Time Frame | Technologies | Test Suits<p>CICDs |
 | ----- | ----------- | ---------------------- | ------------ | ---------------- |
 |[PongNotPong](https://github.com/Peter2-71828/PongNotPong)|Pong game played with hand tracking|2 Weeks|Python, OpenCV|N.A|
 |[aceBook](https://github.com/Peter2-71828/aceBook-PingPong)|Face book clone rails apps|2 Weeks|Rails, Carrierwave|Heroku, Travis CI, Rspec|
 |[GuildedRose](https://github.com/Peter2-71828/GildedRose-Refactoring-Kata)|Javascript refactoring challenge|2 Days|JavaScript|Mocha|
 |[Takeaway](https://github.com/Peter2-71828/takeaway-challenge)|Takeway program with sms capabilities|2 Days|Ruby, Twilio|Rspec|
+| [TicTacToe](https://github.com/Peter2-71828/TicTacToe_CPP)|TicTacToe command line game|2 Days|C++11|N.A|
 
 <h2>Experience</h2>
 
