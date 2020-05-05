@@ -31,7 +31,7 @@
 | Title | Description | Development<p>Time Frame | Technologies | Test Suits<p>CICDs |
 | ----- | ----------- | ---------------------- | ------------ | ---------------- |
 |[PongNotPong](https://github.com/Peter2-71828/PongNotPong)|Pong game played with hand tracking|2 Weeks|Python, OpenCV|N.A|
-|[aceBook](https://github.com/Peter2-71828/aceBook-PingPong)|Face book clone rails apps|2 Weeks|Rails, Carrierwave|Heroku, Travis CI, Rspec|
+|[aceBook](https://github.com/Peter2-71828/aceBook-PingPong)|Facebook clone rails apps|2 Weeks|Rails, Carrierwave|Heroku, Travis CI, Rspec|
 |[GuildedRose](https://github.com/Peter2-71828/GildedRose-Refactoring-Kata)|Javascript refactoring challenge|2 Days|JavaScript|Mocha|
 |[Takeaway](https://github.com/Peter2-71828/takeaway-challenge)|Takeway program with sms capabilities|2 Days|Ruby, Twilio|Rspec|
 | [TicTacToe](https://github.com/Peter2-71828/TicTacToe_CPP)|TicTacToe command line game|2 Days|C++11|N.A|
@@ -45,7 +45,7 @@
 <h3>Scuba and First Aid Instructor and Equipment Technician, Various<p>(July 2018 to Present)</h3>
   <li>A qualified scuba and first aid instructor. Requires interpersonal and leadership skills, knowledge of teaching techniques and risk management skills.
 
-<h3>Surrey Scuba Society President, University of Surrey<p>(June 2018 to June 2019)</h3>
+<h3>Scuba Society President, University of Surrey<p>(June 2018 to June 2019)</h3>
   <li>President of a large university society, running a not-for-profit organisation and co-ordinating with multiple agencies including BSAC and PADI. Developed financial management skills, marketing and presentation skills. Experience with team management and conflict resolution.
 
 <h3>Research and Camp Management Intern, Gap Force<p>(June to September 2017)</h3>
