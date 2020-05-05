@@ -54,7 +54,7 @@
 <h2> Higher Education </h2>
 
 <h3> University of Surrey </h3>
-Completed two years of an aerospace engineering degree before attending Makers, which is in part lead to me discovering my passion for software.
+Completed two years of an aerospace engineering degree before attending Makers, which is in part what lead to me discovering my passion for software.
 
 <h3> Scuba Diving </h3>
 <li>Qualified scuba diving and first aid instructor
