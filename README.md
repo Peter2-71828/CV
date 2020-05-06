@@ -10,7 +10,7 @@
 
 | Technical Skills | Soft Skills |
 | ---------------- | ----------- |
-| Javascript | Team Management |
+| JavaScript | Team Management |
 | Python | Teaching Techniques |
 | Ruby | Critical Thinking |
 | C++ | Problem Solving |
@@ -32,7 +32,7 @@
 | ----- | ----------- | ---------------------- | ------------ | ---------------- |
 |[PongNotPong](https://github.com/Peter2-71828/PongNotPong)|Pong game played with hand tracking|2 Weeks|Python, OpenCV|N.A|
 |[aceBook](https://github.com/Peter2-71828/aceBook-PingPong)|Facebook clone rails apps|2 Weeks|Rails, Carrierwave|Heroku, Travis CI, Rspec|
-|[GuildedRose](https://github.com/Peter2-71828/GildedRose-Refactoring-Kata)|Javascript refactoring challenge|2 Days|JavaScript|Mocha|
+|[GuildedRose](https://github.com/Peter2-71828/GildedRose-Refactoring-Kata)|JavaScript refactoring challenge|2 Days|JavaScript|Mocha|
 |[Takeaway](https://github.com/Peter2-71828/takeaway-challenge)|Takeway program with sms capabilities|2 Days|Ruby, Twilio|Rspec|
 | [TicTacToe](https://github.com/Peter2-71828/TicTacToe_CPP)|TicTacToe command line game|2 Days|C++11|N.A|
 
