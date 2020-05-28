@@ -20,10 +20,10 @@
 | OpenCV & TensorFlow | Time Management |
 
 <a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/Ruby-227%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/JavaScript-104%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/HTML-78%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/JavaScript-107%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/C++-88%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/Python-56%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/Python-79%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/HTML-78%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/peter2-71828"><img src="https://img.shields.io/badge/CSS-45%20commits-orange.svg" alt=""></a>
 
 <h2> Projects </h2>
